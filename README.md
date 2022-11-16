@@ -1,4 +1,4 @@
-![LuisAcosta](LuisBanner.gif.gif)
+![LuisAcosta](LuisBanner.gif)
 
 👨‍💻 About Me :
 I am a Full Stack Developer 🖥️ from Argentina.
