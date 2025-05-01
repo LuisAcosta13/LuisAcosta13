@@ -1,7 +1,7 @@
-![LuisAcosta](LuisBanner.gif)
+
 
 <h2 align="center">
-Full Stack Developer :rocket: from Argentina to :earth_americas:
+Frontend Sofware Engineer :rocket: from Argentina to :earth_americas:
 </h2>
 
 &nbsp;&nbsp;
@@ -9,9 +9,8 @@ Full Stack Developer :rocket: from Argentina to :earth_americas:
 <h2 align='center'> 👨‍💻 About me </h2>
 <p align='center'>
 🤔 Exploring new technologies and developing new projects. <br/>
-🎓 Graduated as Full Stack Developer of Henry Academy.<br/>
 💼 I'm currently looking for work.<br/>
-🌱 Learning more about TypeScript, UI/UX Design, React Native and more...<br/>
+🌱 Learning more about TypeScript, UI/UX Design, React Native, 3D animation and more...<br/>
 </p>
 
 <h2 align='center'> 🔧 My tools </h2>
